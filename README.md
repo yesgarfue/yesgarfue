@@ -1,89 +1,131 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=190&section=header&text=TU%20NOMBRE&fontColor=F4F1DE&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Python%20%C2%B7%20Django%20%C2%B7%20QA%20Automation%20%C2%B7%20AI&descAlignY=58&descSize=16"
-    alt="Cabecera del perfil"
+    src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=190&section=header&text=Yesica%20Garate&fontColor=F4F1DE&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20Informática&descAlignY=58&descSize=17"
+    alt="Cabecera de Yesica Garate"
   />
 </p>
 
 <div align="center">
 
-### ☾ Hola, soy TU NOMBRE
+### ☾ Hola, soy Yesica
 
-Desarrolladora de software interesada en backend, automatización,  
-calidad del software y desarrollo asistido por inteligencia artificial.
+**Estudiante de Ingeniería Informática — Ingeniería del Software**  
+Universidad de Sevilla
+
+Busco una oportunidad de prácticas profesionales en Sevilla,  
+aunque también estoy abierta a opciones híbridas o remotas.
+
+*Computer Engineering student looking for an internship opportunity  
+in software development.*
 
 </div>
 
 ---
 
-## ☾ Sobre mí
+## Sobre mí
 
-- 🎓 Finalizando mi Trabajo de Fin de Grado en desarrollo de software.
-- 🐍 Experiencia académica desarrollando aplicaciones con Python y Django.
-- 🧪 Automatización de pruebas funcionales con pytest y Playwright.
-- 🤖 Experimentación con CrewAI y pipelines de desarrollo humano-IA.
-- 📚 Interés por el software probado, documentado y reproducible.
-- 🌱 Próximo objetivo: PostgreSQL, APIs REST y automatización CI/CD.
-
-> Me gustan la calma de la noche, la luna y las luces de la ciudad.  
-> A veces son un pequeño recordatorio de que, incluso en silencio,  
-> siempre hay alguien despierto creando algo.
+- 🎓 Finalizando el Grado en Ingeniería Informática — Ingeniería del Software.
+- 💼 Buscando prácticas en desarrollo de software, backend o QA.
+- 🤝 Experiencia trabajando en proyectos académicos en equipo.
+- 🔀 Uso habitual de Git y GitHub para organizar y compartir trabajo.
+- 🚀 Participación en proyectos grupales con despliegue e integración continua.
+- 📚 Actualmente reforzando programación, desarrollo web, SQL e inglés.
 
 ---
 
-## ✦ Tecnologías
+## Áreas de interés
+
+- Desarrollo de software.
+- Desarrollo backend con Python.
+- Calidad y automatización de pruebas.
+- APIs REST y bases de datos.
+- Inteligencia artificial aplicada al desarrollo.
+- Trabajo colaborativo con Git y GitHub.
+
+---
+
+## Proyecto académico destacado
+
+### Estudio comparativo de desarrollo humano y humano-IA
+
+Trabajo de Fin de Grado individual sobre el desarrollo y evaluación de una
+plataforma de gestión y reserva de embarcaciones.
+
+El estudio compara una implementación desarrollada por un equipo humano con
+varias implementaciones producidas mediante un pipeline híbrido humano-IA.
+
+El repositorio incluye:
+
+- Aplicaciones web construidas con Django.
+- Pipeline multiagente basado en CrewAI.
+- Validaciones y puntos de revisión humana.
+- Suite externa de 27 pruebas funcionales.
+- Automatización mediante pytest y Playwright.
+- Evidencias, resultados y documentación reproducible.
+
+Mi objetivo actual es comprender en profundidad las tecnologías utilizadas,
+reforzar mis fundamentos y trasladar ese aprendizaje a proyectos desarrollados
+de manera más autónoma.
+
+<p align="center">
+  <a href="URL_DEL_REPOSITORIO_TFG">
+    <img src="https://img.shields.io/badge/Ver_TFG-356859?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="URL_DEL_VIDEO">
+    <img src="https://img.shields.io/badge/Ver_demostración-588157?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Tecnologías presentes en mis proyectos académicos
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-356859?style=for-the-badge&logo=python&logoColor=F4F1DE" />
-<img src="https://img.shields.io/badge/Django-3A5A40?style=for-the-badge&logo=django&logoColor=F4F1DE" />
-<img src="https://img.shields.io/badge/pytest-588157?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-52796F?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-356859?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-3A5A40?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-8A5A44?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-53687E?style=for-the-badge&logo=github&logoColor=white" />
 
 <br>
 
+<img src="https://img.shields.io/badge/pytest-588157?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-52796F?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-457B9D?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-8A5A44?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-53687E?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-A3B18A?style=for-the-badge&logo=sqlite&logoColor=2F3E46" />
 
 </p>
 
 ---
 
-## 🚀 Proyecto destacado
+## Actualmente reforzando
 
-### Estudio comparativo de desarrollo humano y humano-IA
-
-Trabajo de Fin de Grado basado en el desarrollo y evaluación de una plataforma
-web para la gestión y reserva de embarcaciones.
-
-- Aplicación desarrollada con Python, Django y SQLite.
-- Pipeline multiagente construido con CrewAI.
-- Validación humana integrada durante el proceso.
-- Suite externa con 27 pruebas funcionales.
-- Automatización mediante pytest y Playwright.
-- Uso de Docker, trazabilidad y documentación reproducible.
-
-<p align="center">
-  <a href="URL_DE_TU_REPOSITORIO">
-    <img src="https://img.shields.io/badge/Ver_proyecto-356859?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- Fundamentos de Python.
+- HTML, CSS y desarrollo web.
+- SQL y bases de datos.
+- Diseño y consumo de APIs REST.
+- Pruebas automatizadas.
+- Inglés técnico.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## Proyectos en equipo
 
-- Desarrollo de APIs REST.
-- PostgreSQL y modelado de bases de datos.
-- GitHub Actions y CI/CD.
-- Fundamentos de despliegue en la nube.
+<!--
+Aquí añadiremos uno o dos proyectos grupales.
+
+Para cada proyecto indicaremos:
+- Qué problema resolvía.
+- Qué hiciste tú personalmente.
+- Tecnologías utilizadas.
+- Enlace al repositorio.
+- Enlace al despliegue, si existe.
+-->
 
 ---
 
-## ✉️ Contacto
+## Contacto
 
 <p align="center">
 
@@ -91,15 +133,11 @@ web para la gestión y reserva de embarcaciones.
   <img src="https://img.shields.io/badge/LinkedIn-457B9D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:TU_CORREO">
-  <img src="https://img.shields.io/badge/Correo-588157?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </p>
 
 <div align="center">
 
-### ☾ ───────────── ✦ ───────────── ☽
+### ☾ Aprendiendo a construir software con criterio, constancia y curiosidad.
 
 </div>
 
