@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=200&section=header&text=Yesica%20Garate&fontColor=F4F1DE&fontSize=40&animation=fadeIn&fontAlignY=32&desc=Ingeniería%20Informática%20—%20Ingeniería%20del%20Software%0AUniversidad%20de%20Sevilla&descAlignY=58&descSize=16"
+    src="banner.svg"
     alt="Cabecera de Yesica Garate"
   />
 </p>
