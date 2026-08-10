@@ -1,23 +1,19 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=190&section=header&text=Yesica%20Garate&fontColor=F4F1DE&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20Informática&descAlignY=58&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=150&section=header&text=Yesica%20Garate&fontColor=F4F1DE&fontSize=40&animation=fadeIn&fontAlignY=55"
     alt="Cabecera de Yesica Garate"
   />
 </p>
 
 <div align="center">
 
-### ☾ Hola, soy Yesica
-
-**Estudiante de Ingeniería Informática — Ingeniería del Software**  
+**Ingeniería Informática — Ingeniería del Software**  
 Universidad de Sevilla
 
-Busco una oportunidad de prácticas profesionales en Sevilla,  
-aunque también estoy abierta a opciones híbridas o remotas.
+*Vengo de un camino variado —soporte técnico, desarrollo web, investigación aplicada— y ahora enfoco ese recorrido en el desarrollo de software. Busco una oportunidad de prácticas donde aportar responsabilidad, compromiso y ganas reales de aprender.*
 
-*Computer Engineering student looking for an internship opportunity  
-in software development.*
+📍 Disponibilidad inmediata — Sevilla / híbrido / remoto
 
 </div>
 
@@ -25,23 +21,35 @@ in software development.*
 
 ## Sobre mí
 
-- 🎓 Finalizando el Grado en Ingeniería Informática — Ingeniería del Software.
-- 💼 Buscando prácticas en desarrollo de software, backend o QA.
-- 🤝 Experiencia trabajando en proyectos académicos en equipo.
-- 🔀 Uso habitual de Git y GitHub para organizar y compartir trabajo.
-- 🚀 Participación en proyectos grupales con despliegue e integración continua.
-- 📚 Actualmente reforzando programación, desarrollo web, SQL e inglés.
+- ▸ Finalizando el Grado en Ingeniería Informática — mención Ingeniería del Software (Universidad de Sevilla).
+- ▸ Trayectoria previa en soporte técnico, desarrollo web y proyectos de investigación aplicada, en Perú y España.
+- ▸ Buscando prácticas en desarrollo de software, backend o QA.
+- ▸ Acostumbrada a trabajar en equipo, tanto en contextos académicos como profesionales.
+- ▸ Uso habitual de Git y GitHub para organizar y compartir trabajo.
+- ▸ Reforzando ahora mismo: inglés (preparando el B1), programación, desarrollo web y SQL.
 
 ---
 
-## Áreas de interés
+## Experiencia
 
-- Desarrollo de software.
-- Desarrollo backend con Python.
-- Calidad y automatización de pruebas.
-- APIs REST y bases de datos.
-- Inteligencia artificial aplicada al desarrollo.
-- Trabajo colaborativo con Git y GitHub.
+**Beca de formación en prácticas** — Biblioteca de la Universidad de Sevilla · 2023  
+Apoyo técnico en entorno universitario, adaptación de contenidos digitales y asistencia en incidencias básicas. *(Sevilla, España)*
+
+**Colaboración en proyecto de investigación Smart City** — Universidad Nacional de San Agustín de Arequipa, financiado por CONCYTEC · 2017–2020  
+Análisis y apoyo al estudio de soluciones tecnológicas orientadas a economía y gobierno, y colaboración en el diseño de propuestas tecnológicas. *(Arequipa, Perú)*
+
+**Asistente de desarrollo web** — Creativo Sheng Marketing · 2018–2019  
+Desarrollo y soporte de páginas web, publicación de la web corporativa, configuración de hosting y correos institucionales, apoyo en proyectos web para clientes. *(Arequipa, Perú)*
+
+**Apoyo técnico** — Compuprinter Ingenieros E.I.R.L. · 2016–2017  
+Servicios de migración, instalación y mantenimiento básico de equipos informáticos en organizaciones e instituciones, incluyendo el Banco de la Nación del Perú. *(Arequipa, Perú)*
+
+---
+
+## Formación
+
+- **Grado en Ingeniería Informática — Ingeniería del Software**, Universidad de Sevilla *(2020 – actualidad)*.
+- Trabajo de Fin de Grado: *Estudio comparativo de desarrollo humano y humano-IA* — nota final **9,4/10** 🎉.
 
 ---
 
@@ -50,7 +58,7 @@ in software development.*
 ### Estudio comparativo de desarrollo humano y humano-IA
 
 Trabajo de Fin de Grado individual sobre el desarrollo y evaluación de una
-plataforma de gestión y reserva de embarcaciones.
+plataforma de gestión y reserva de embarcaciones. Nota final: **9,4/10**.
 
 El estudio compara una implementación desarrollada por un equipo humano con
 varias implementaciones producidas mediante un pipeline híbrido humano-IA.
@@ -79,12 +87,26 @@ de manera más autónoma.
 
 ---
 
-## Tecnologías presentes en mis proyectos académicos
+## Tecnologías
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-356859?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-3A5A40?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-8A5A44?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-53687E?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br>
+
 <img src="https://img.shields.io/badge/Django-3A5A40?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-588157?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-52796F?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-457B9D?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/SQLite-A3B18A?style=for-the-badge&logo=sqlite&logoColor=2F3E46" />
+<img src="https://img.shields.io/badge/SQL_Server-356859?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-8A5A44?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-53687E?style=for-the-badge&logo=github&logoColor=white" />
 
@@ -93,20 +115,41 @@ de manera más autónoma.
 <img src="https://img.shields.io/badge/pytest-588157?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-52796F?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-457B9D?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-A3B18A?style=for-the-badge&logo=sqlite&logoColor=2F3E46" />
+<img src="https://img.shields.io/badge/MATLAB-3A5A40?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+</p>
+
+**Herramientas de IA**
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ChatGPT-356859?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-8A5A44?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-53687E?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-588157?style=for-the-badge" />
 
 </p>
 
 ---
 
+## Cómo trabajo
+
+- ▸ Organización, responsabilidad y compromiso con tareas y plazos.
+- ▸ Capacidad de aprendizaje y adaptación rápida a nuevos entornos y herramientas.
+- ▸ Comunicación clara, escucha activa y actitud proactiva.
+- ▸ Iniciativa para resolver problemas de forma autónoma, y criterio para saber cuándo pedir ayuda.
+- ▸ Buena disposición para el trabajo en equipo.
+
+---
+
 ## Actualmente reforzando
 
+- Inglés (preparando el B1).
 - Fundamentos de Python.
 - HTML, CSS y desarrollo web.
 - SQL y bases de datos.
 - Diseño y consumo de APIs REST.
 - Pruebas automatizadas.
-- Inglés técnico.
 
 ---
 
@@ -129,15 +172,19 @@ Para cada proyecto indicaremos:
 
 <p align="center">
 
-<a href="URL_DE_LINKEDIN">
+<a href="mailto:yesi.garate@gmail.com">
+  <img src="https://img.shields.io/badge/Email-356859?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yesicagaratefuentes/">
   <img src="https://img.shields.io/badge/LinkedIn-457B9D?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<img src="https://img.shields.io/badge/CV-Próximamente-A3B18A?style=for-the-badge&logoColor=2F3E46" />
 
 </p>
 
 <div align="center">
 
-### ☾ Aprendiendo a construir software con criterio, constancia y curiosidad.
+### ☾ Aprendiendo a construir software con criterio, constancia y compromiso.
 
 </div>
 
