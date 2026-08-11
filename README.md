@@ -81,10 +81,10 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <img src="https://cdn.simpleicons.org/html5" width="18" height="18" valign="middle"/> HTML5 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/sqlite" width="18" height="18" valign="middle"/> SQLite &nbsp;&nbsp;
 <img src="icon-mssql.svg" width="18" height="18" valign="middle"/> SQL Server &nbsp;&nbsp;
+<img src="icon-playwright.svg" width="18" height="18" valign="middle"/> Playwright &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git" width="18" height="18" valign="middle"/> Git &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github" width="18" height="18" valign="middle"/> GitHub &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pytest" width="18" height="18" valign="middle"/> pytest &nbsp;&nbsp;
-<img src="icon-playwright.svg" width="18" height="18" valign="middle"/> Playwright &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker" width="18" height="18" valign="middle"/> Docker &nbsp;&nbsp;
 <img src="icon-mathworks.svg" width="18" height="18" valign="middle"/> MATLAB
 </p>
