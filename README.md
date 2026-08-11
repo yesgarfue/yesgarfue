@@ -73,7 +73,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 
 <p align="center">
 <img src="https://cdn.simpleicons.org/python" width="18" height="18" valign="middle"/> Python &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk" width="18" height="18" valign="middle"/> Java &nbsp;&nbsp;
+<img src="icon-java.svg" width="18" height="18" valign="middle"/> Java &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/javascript" width="18" height="18" valign="middle"/> JavaScript &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql" width="18" height="18" valign="middle"/> SQL &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/django" width="18" height="18" valign="middle"/> Django &nbsp;&nbsp;
@@ -93,12 +93,14 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 
 <p align="center">
 <img src="icon-openai.svg" width="18" height="18" valign="middle"/> ChatGPT &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/anthropic" width="18" height="18" valign="middle"/> Claude &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/claude" width="18" height="18" valign="middle"/> Claude &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ollama" width="18" height="18" valign="middle"/> Ollama &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/crewai" width="18" height="18" valign="middle"/> CrewAI
 </p>
 
-## Cómo trabajo
+## Cómo trabajo y qué sigo reforzando
+
+**Cómo trabajo**
 
 ▸ Organización, responsabilidad y compromiso con tareas y plazos.  
 ▸ Capacidad de aprendizaje y adaptación rápida a nuevos entornos y herramientas.  
@@ -106,7 +108,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 ▸ Iniciativa para resolver problemas de forma autónoma, y criterio para saber cuándo pedir ayuda.  
 ▸ Buena disposición para el trabajo en equipo.
 
-## Actualmente reforzando
+**Actualmente reforzando**
 
 ▸ Inglés (preparando el B1).  
 ▸ Fundamentos de Python.  
@@ -115,20 +117,11 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 ▸ Diseño y consumo de APIs REST.  
 ▸ Pruebas automatizadas.
 
-## Proyectos en equipo
+<table>
+<tr>
+<td align="center">
 
-<!--
-Aquí añadiremos uno o dos proyectos grupales.
-
-Para cada proyecto indicaremos:
-- Qué problema resolvía.
-- Qué hiciste tú personalmente.
-- Tecnologías utilizadas.
-- Enlace al repositorio.
-- Enlace al despliegue, si existe.
--->
-
-## Contacto
+### ☾ Contacto
 
 <p align="center">
 
@@ -142,11 +135,11 @@ Para cada proyecto indicaremos:
 
 </p>
 
-<div align="center">
+<p align="center"><em>Aprendiendo a construir software con criterio, constancia y compromiso.</em></p>
 
-### ☾ Aprendiendo a construir software con criterio, constancia y compromiso.
-
-</div>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img
