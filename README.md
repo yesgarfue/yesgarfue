@@ -74,56 +74,46 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 *Lenguajes*
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-356859?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-356859?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-356859?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-356859?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+<img src="https://cdn.simpleicons.org/python" width="18" height="18" valign="middle"/> Python &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk" width="18" height="18" valign="middle"/> Java &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript" width="18" height="18" valign="middle"/> JavaScript &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" width="18" height="18" valign="middle"/> SQL
 </p>
 
 *Frameworks & Web*
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Django-3A5A40?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-3A5A40?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-3A5A40?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-3A5A40?style=for-the-badge&logo=css3&logoColor=white" />
-
+<img src="https://cdn.simpleicons.org/django" width="18" height="18" valign="middle"/> Django &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap" width="18" height="18" valign="middle"/> Bootstrap &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5" width="18" height="18" valign="middle"/> HTML5 &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3" width="18" height="18" valign="middle"/> CSS3
 </p>
 
 *Bases de datos & control de versiones*
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/SQLite-52796F?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-52796F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-52796F?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-52796F?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://cdn.simpleicons.org/sqlite" width="18" height="18" valign="middle"/> SQLite &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" width="18" height="18" valign="middle"/> SQL Server &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="18" height="18" valign="middle"/> Git &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github" width="18" height="18" valign="middle"/> GitHub
 </p>
 
 *Testing & herramientas*
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/pytest-8A5A44?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-8A5A44?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-8A5A44?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-8A5A44?style=for-the-badge&logo=mathworks&logoColor=white" />
-
+<img src="https://cdn.simpleicons.org/pytest" width="18" height="18" valign="middle"/> pytest &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/playwright" width="18" height="18" valign="middle"/> Playwright &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="18" height="18" valign="middle"/> Docker &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mathworks" width="18" height="18" valign="middle"/> MATLAB
 </p>
 
 *Herramientas de IA*
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-588157?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-588157?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-588157?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-588157?style=for-the-badge" />
-
+<img src="https://cdn.simpleicons.org/openai" width="18" height="18" valign="middle"/> ChatGPT &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic" width="18" height="18" valign="middle"/> Claude &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama" width="18" height="18" valign="middle"/> Ollama &nbsp;&nbsp;•&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/crewai" width="18" height="18" valign="middle"/> CrewAI
 </p>
 
 ## Cómo trabajo
