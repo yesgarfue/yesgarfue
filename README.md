@@ -69,7 +69,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
   </a>
 </p>
 
-## Tecnologías
+## Tecnologías y Herramientas de IA
 
 <p align="center">
 <img src="https://cdn.simpleicons.org/python" width="18" height="18" valign="middle"/> Python &nbsp;&nbsp;
@@ -88,6 +88,10 @@ SQL Server &nbsp;&nbsp;
 Playwright &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker" width="18" height="18" valign="middle"/> Docker &nbsp;&nbsp;
 MATLAB
+ChatGPT &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic" width="18" height="18" valign="middle"/> Claude &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama" width="18" height="18" valign="middle"/> Ollama &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/crewai" width="18" height="18" valign="middle"/> CrewAI
 </p>
 
 **Herramientas de IA**
