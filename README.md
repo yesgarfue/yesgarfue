@@ -120,15 +120,9 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 ## Contacto
 
 <p align="center">
-
-<a href="mailto:yesi.garate@gmail.com">
-  <img src="https://img.shields.io/badge/Email-356859?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yesicagaratefuentes/">
-  <img src="https://img.shields.io/badge/LinkedIn-457B9D?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/CV-Próximamente-A3B18A?style=for-the-badge&logoColor=2F3E46" />
-
+<img src="https://cdn.simpleicons.org/gmail" width="18" height="18" valign="middle"/> <a href="mailto:yesi.garate@gmail.com">yesi.garate@gmail.com</a> &nbsp;&nbsp;
+<img src="icon-linkedin.svg" width="18" height="18" valign="middle"/> <a href="https://www.linkedin.com/in/yesicagaratefuentes/">LinkedIn</a> &nbsp;&nbsp;
+📄 CV — próximamente
 </p>
 
 <p align="center">
