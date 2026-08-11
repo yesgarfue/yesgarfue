@@ -79,7 +79,6 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <img src="https://cdn.simpleicons.org/django" width="18" height="18" valign="middle"/> Django &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/bootstrap" width="18" height="18" valign="middle"/> Bootstrap &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/html5" width="18" height="18" valign="middle"/> HTML5 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3" width="18" height="18" valign="middle"/> CSS3 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/sqlite" width="18" height="18" valign="middle"/> SQLite &nbsp;&nbsp;
 <img src="icon-mssql.svg" width="18" height="18" valign="middle"/> SQL Server &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/git" width="18" height="18" valign="middle"/> Git &nbsp;&nbsp;
