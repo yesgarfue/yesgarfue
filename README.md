@@ -16,12 +16,10 @@
 
 ## Sobre mí
 
-▸ Finalizando el Grado en Ingeniería Informática — mención Ingeniería del Software (Universidad de Sevilla).  
 ▸ Trayectoria previa en soporte técnico, desarrollo web y proyectos de investigación aplicada, en Perú y España.  
 ▸ Buscando prácticas en desarrollo de software, backend o QA.  
 ▸ Acostumbrada a trabajar en equipo, tanto en contextos académicos como profesionales.  
-▸ Uso habitual de Git y GitHub para organizar y compartir trabajo.  
-▸ Reforzando ahora mismo: inglés (preparando el B1), programación, desarrollo web y SQL.
+▸ Uso habitual de Git y GitHub para organizar y compartir trabajo.
 
 ## Experiencia
 
@@ -71,6 +69,8 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 
 ## Tecnologías y Herramientas de IA
 
+**Tecnologías**
+
 <p align="center">
 <img src="https://cdn.simpleicons.org/python" width="18" height="18" valign="middle"/> Python &nbsp;&nbsp;
 <img src="icon-java.svg" width="18" height="18" valign="middle"/> Java &nbsp;&nbsp;
@@ -89,7 +89,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <img src="icon-mathworks.svg" width="18" height="18" valign="middle"/> MATLAB
 </p>
 
-<br>
+**Herramientas de IA**
 
 <p align="center">
 <img src="icon-openai.svg" width="18" height="18" valign="middle"/> ChatGPT &nbsp;&nbsp;
@@ -117,11 +117,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 ▸ Diseño y consumo de APIs REST.  
 ▸ Pruebas automatizadas.
 
-<table>
-<tr>
-<td align="center">
-
-### ☾ Contacto
+## Contacto
 
 <p align="center">
 
@@ -134,12 +130,6 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <img src="https://img.shields.io/badge/CV-Próximamente-A3B18A?style=for-the-badge&logoColor=2F3E46" />
 
 </p>
-
-<p align="center"><em>Aprendiendo a construir software con criterio, constancia y compromiso.</em></p>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img
