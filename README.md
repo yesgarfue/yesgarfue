@@ -39,38 +39,33 @@ Servicios de migración, instalación y mantenimiento básico de equipos inform�
 
 ## Formación
 
-- **Grado en Ingeniería Informática — Ingeniería del Software**, Universidad de Sevilla *(2020 – actualidad)*.
-- Trabajo de Fin de Grado: *Estudio comparativo de desarrollo humano y humano-IA* — nota final **9,4/10** 🎉.
+▸ **Grado en Ingeniería Informática — Ingeniería del Software**, Universidad de Sevilla *(2020 – actualidad)*.
 
-## Proyecto académico destacado
+### Trabajo de Fin de Grado — nota final 9,4/10 🎉
 
-### Estudio comparativo de desarrollo humano y humano-IA
+**Comparación entre gestión de proyectos tradicional y gestión asistida por IA en el desarrollo de software**
 
-Trabajo de Fin de Grado individual sobre el desarrollo y evaluación de una
-plataforma de gestión y reserva de embarcaciones. Nota final: **9,4/10**.
+¿Puede un equipo en el que parte del trabajo lo ejecutan agentes de IA gestionar y construir un proyecto software real con las garantías de un equipo humano? Este TFG lo pone a prueba: toma como referencia un proyecto real —una aplicación web de gestión y reserva de embarcaciones desarrollada en Django por un equipo de cinco personas bajo metodología PMI+Scrum en tres sprints— y lo enfrenta a un pipeline híbrido humano-IA construido sobre una arquitectura multiagente con CrewAI, que recorre las mismas fases (requisitos, planificación, diseño y desarrollo) con un punto de revisión humana en cada una.
 
-El estudio compara una implementación desarrollada por un equipo humano con
-varias implementaciones producidas mediante un pipeline híbrido humano-IA.
+**Resultados clave:**
 
-El repositorio incluye:
+▸ El pipeline reduce el esfuerzo humano de supervisión en un 86,48 % (de al menos 710 minutos a 95,97 de media).  
+▸ Produce artefactos de gestión estables y trazables, y elimina la deriva funcional del alcance que sí sufrió el equipo humano.  
+▸ El producto final, en cambio, no está garantizado: de tres ejecuciones idénticas, solo una igualó al equipo humano (27/27 pruebas frente a 26/27); las otras dos quedaron en el 44,44 % y el 51,85 % de la suite.
 
-- Aplicaciones web construidas con Django.
-- Pipeline multiagente basado en CrewAI.
-- Validaciones y puntos de revisión humana.
-- Suite externa de 27 pruebas funcionales.
-- Automatización mediante pytest y Playwright.
-- Evidencias, resultados y documentación reproducible.
+**Conclusión:** lo estable es el proceso, lo frágil es el producto — los fallos se concentran justo donde el diseño retiró la supervisión humana. Los equipos híbridos humano-IA son viables como colaboración estructurada bajo supervisión explícita; su autonomía completa, hoy, no queda demostrada.
 
-Mi objetivo actual es comprender en profundidad las tecnologías utilizadas,
-reforzar mis fundamentos y trasladar ese aprendizaje a proyectos desarrollados
-de manera más autónoma.
+Es una línea de trabajo que me interesa mucho y en la que quiero seguir profundizando.
+
+▸ Aplicación web construida con Django (caso base).  
+▸ Pipeline multiagente basado en CrewAI, con gates de revisión humana.  
+▸ Suite común de 27 pruebas funcionales aplicada a ambos casos.  
+▸ Automatización mediante pytest y Playwright.  
+▸ Evidencias, resultados y documentación reproducible.
 
 <p align="center">
-  <a href="URL_DEL_REPOSITORIO_TFG">
-    <img src="https://img.shields.io/badge/Ver_TFG-356859?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="URL_DEL_VIDEO">
-    <img src="https://img.shields.io/badge/Ver_demostración-588157?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://github.com/yesgarfue/plataforma-gestion-reservas-tfg">
+    <img src="tfg-button.svg" />
   </a>
 </p>
 
@@ -119,20 +114,20 @@ de manera más autónoma.
 
 ## Cómo trabajo
 
-- ▸ Organización, responsabilidad y compromiso con tareas y plazos.
-- ▸ Capacidad de aprendizaje y adaptación rápida a nuevos entornos y herramientas.
-- ▸ Comunicación clara, escucha activa y actitud proactiva.
-- ▸ Iniciativa para resolver problemas de forma autónoma, y criterio para saber cuándo pedir ayuda.
-- ▸ Buena disposición para el trabajo en equipo.
+▸ Organización, responsabilidad y compromiso con tareas y plazos.  
+▸ Capacidad de aprendizaje y adaptación rápida a nuevos entornos y herramientas.  
+▸ Comunicación clara, escucha activa y actitud proactiva.  
+▸ Iniciativa para resolver problemas de forma autónoma, y criterio para saber cuándo pedir ayuda.  
+▸ Buena disposición para el trabajo en equipo.
 
 ## Actualmente reforzando
 
-- Inglés (preparando el B1).
-- Fundamentos de Python.
-- HTML, CSS y desarrollo web.
-- SQL y bases de datos.
-- Diseño y consumo de APIs REST.
-- Pruebas automatizadas.
+▸ Inglés (preparando el B1).  
+▸ Fundamentos de Python.  
+▸ HTML, CSS y desarrollo web.  
+▸ SQL y bases de datos.  
+▸ Diseño y consumo de APIs REST.  
+▸ Pruebas automatizadas.
 
 ## Proyectos en equipo
 
