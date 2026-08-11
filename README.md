@@ -14,41 +14,33 @@
 
 </div>
 
----
-
 ## Sobre mí
 
-- ▸ Finalizando el Grado en Ingeniería Informática — mención Ingeniería del Software (Universidad de Sevilla).
-- ▸ Trayectoria previa en soporte técnico, desarrollo web y proyectos de investigación aplicada, en Perú y España.
-- ▸ Buscando prácticas en desarrollo de software, backend o QA.
-- ▸ Acostumbrada a trabajar en equipo, tanto en contextos académicos como profesionales.
-- ▸ Uso habitual de Git y GitHub para organizar y compartir trabajo.
-- ▸ Reforzando ahora mismo: inglés (preparando el B1), programación, desarrollo web y SQL.
-
----
+▸ Finalizando el Grado en Ingeniería Informática — mención Ingeniería del Software (Universidad de Sevilla).  
+▸ Trayectoria previa en soporte técnico, desarrollo web y proyectos de investigación aplicada, en Perú y España.  
+▸ Buscando prácticas en desarrollo de software, backend o QA.  
+▸ Acostumbrada a trabajar en equipo, tanto en contextos académicos como profesionales.  
+▸ Uso habitual de Git y GitHub para organizar y compartir trabajo.  
+▸ Reforzando ahora mismo: inglés (preparando el B1), programación, desarrollo web y SQL.
 
 ## Experiencia
 
-**Beca de formación en prácticas** — Biblioteca de la Universidad de Sevilla · 2023  
+▸ **Beca de formación en prácticas** — Biblioteca de la Universidad de Sevilla · 2023  
 Apoyo técnico en entorno universitario, adaptación de contenidos digitales y asistencia en incidencias básicas. *(Sevilla, España)*
 
-**Colaboración en proyecto de investigación Smart City** — Universidad Nacional de San Agustín de Arequipa, financiado por CONCYTEC · 2017–2020  
+▸ **Colaboración en proyecto de investigación Smart City** — Universidad Nacional de San Agustín de Arequipa, financiado por CONCYTEC · 2017–2020  
 Análisis y apoyo al estudio de soluciones tecnológicas orientadas a economía y gobierno, y colaboración en el diseño de propuestas tecnológicas. *(Arequipa, Perú)*
 
-**Asistente de desarrollo web** — Creativo Sheng Marketing · 2018–2019  
+▸ **Asistente de desarrollo web** — Creativo Sheng Marketing · 2018–2019  
 Desarrollo y soporte de páginas web, publicación de la web corporativa, configuración de hosting y correos institucionales, apoyo en proyectos web para clientes. *(Arequipa, Perú)*
 
-**Apoyo técnico** — Compuprinter Ingenieros E.I.R.L. · 2016–2017  
+▸ **Apoyo técnico** — Compuprinter Ingenieros E.I.R.L. · 2016–2017  
 Servicios de migración, instalación y mantenimiento básico de equipos informáticos en organizaciones e instituciones, incluyendo el Banco de la Nación del Perú. *(Arequipa, Perú)*
-
----
 
 ## Formación
 
 - **Grado en Ingeniería Informática — Ingeniería del Software**, Universidad de Sevilla *(2020 – actualidad)*.
 - Trabajo de Fin de Grado: *Estudio comparativo de desarrollo humano y humano-IA* — nota final **9,4/10** 🎉.
-
----
 
 ## Proyecto académico destacado
 
@@ -81,8 +73,6 @@ de manera más autónoma.
     <img src="https://img.shields.io/badge/Ver_demostración-588157?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
----
 
 ## Tecnologías
 
@@ -127,8 +117,6 @@ de manera más autónoma.
 
 </p>
 
----
-
 ## Cómo trabajo
 
 - ▸ Organización, responsabilidad y compromiso con tareas y plazos.
@@ -136,8 +124,6 @@ de manera más autónoma.
 - ▸ Comunicación clara, escucha activa y actitud proactiva.
 - ▸ Iniciativa para resolver problemas de forma autónoma, y criterio para saber cuándo pedir ayuda.
 - ▸ Buena disposición para el trabajo en equipo.
-
----
 
 ## Actualmente reforzando
 
@@ -147,8 +133,6 @@ de manera más autónoma.
 - SQL y bases de datos.
 - Diseño y consumo de APIs REST.
 - Pruebas automatizadas.
-
----
 
 ## Proyectos en equipo
 
@@ -162,8 +146,6 @@ Para cada proyecto indicaremos:
 - Enlace al repositorio.
 - Enlace al despliegue, si existe.
 -->
-
----
 
 ## Contacto
 

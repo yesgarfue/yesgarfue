@@ -11,36 +11,60 @@
     }
   </style>
 
-  <rect width="1200" height="200" fill="#3A5A40"/>
+  <defs>
+    <linearGradient id="hFade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="6%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="94%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vFade" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="14%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="hMask">
+      <rect width="1200" height="200" fill="url(#hFade)"/>
+    </mask>
+    <mask id="vMask">
+      <rect width="1200" height="200" fill="url(#vFade)"/>
+    </mask>
+  </defs>
 
-  <path fill="#4a6b52" opacity="0.5">
-    <animate
-      attributeName="d"
-      dur="20s"
-      repeatCount="indefinite"
-      keyTimes="0;0.333;0.667;1"
-      values="
-        M0,150 C200,180 400,120 600,150 C800,180 1000,120 1200,150 L1200,200 L0,200 Z;
-        M0,140 C200,110 400,170 600,140 C800,110 1000,170 1200,140 L1200,200 L0,200 Z;
-        M0,160 C200,190 400,130 600,160 C800,190 1000,130 1200,160 L1200,200 L0,200 Z;
-        M0,150 C200,180 400,120 600,150 C800,180 1000,120 1200,150 L1200,200 L0,200 Z" />
-  </path>
+  <g mask="url(#hMask)">
+  <g mask="url(#vMask)">
+    <rect width="1200" height="200" fill="#3A5A40"/>
 
-  <path fill="#588157" opacity="0.45">
-    <animate
-      attributeName="d"
-      dur="20s"
-      begin="-10s"
-      repeatCount="indefinite"
-      keyTimes="0;0.333;0.667;1"
-      values="
-        M0,165 C200,140 400,190 600,165 C800,140 1000,190 1200,165 L1200,200 L0,200 Z;
-        M0,175 C200,150 400,200 600,175 C800,150 1000,200 1200,175 L1200,200 L0,200 Z;
-        M0,155 C200,130 400,180 600,155 C800,130 1000,180 1200,155 L1200,200 L0,200 Z;
-        M0,165 C200,140 400,190 600,165 C800,140 1000,190 1200,165 L1200,200 L0,200 Z" />
-  </path>
+    <path fill="#4a6b52" opacity="0.5">
+      <animate
+        attributeName="d"
+        dur="8s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        values="
+          M0,150 C200,180 400,120 600,150 C800,180 1000,120 1200,150 L1200,200 L0,200 Z;
+          M0,135 C200,100 400,175 600,135 C800,100 1000,175 1200,135 L1200,200 L0,200 Z;
+          M0,165 C200,195 400,125 600,165 C800,195 1000,125 1200,165 L1200,200 L0,200 Z;
+          M0,150 C200,180 400,120 600,150 C800,180 1000,120 1200,150 L1200,200 L0,200 Z" />
+    </path>
 
-  <text x="50%" y="72" text-anchor="middle" class="banner-text" font-size="42" font-weight="700">Yesica Garate</text>
-  <text x="50%" y="115" text-anchor="middle" class="banner-text" font-size="19" font-weight="700">Ingeniería Informática — Ingeniería del Software</text>
-  <text x="50%" y="142" text-anchor="middle" class="banner-text" font-size="16" font-weight="400" opacity="0.9">Universidad de Sevilla</text>
+    <path fill="#588157" opacity="0.45">
+      <animate
+        attributeName="d"
+        dur="8s"
+        begin="-4s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        values="
+          M0,165 C200,140 400,190 600,165 C800,140 1000,190 1200,165 L1200,200 L0,200 Z;
+          M0,180 C200,145 400,205 600,180 C800,145 1000,205 1200,180 L1200,200 L0,200 Z;
+          M0,150 C200,125 400,175 600,150 C800,125 1000,175 1200,150 L1200,200 L0,200 Z;
+          M0,165 C200,140 400,190 600,165 C800,140 1000,190 1200,165 L1200,200 L0,200 Z" />
+    </path>
+  </g>
+  </g>
+
+  <text x="50%" y="70" text-anchor="middle" class="banner-text" font-size="46" font-weight="700">Yesica Garate</text>
+  <text x="50%" y="115" text-anchor="middle" class="banner-text" font-size="23" font-weight="700">Ingeniería Informática — Ingeniería del Software</text>
+  <text x="50%" y="144" text-anchor="middle" class="banner-text" font-size="19" font-weight="400" opacity="0.9">Universidad de Sevilla</text>
 </svg>
