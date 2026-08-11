@@ -73,31 +73,31 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-356859?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-3A5A40?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-8A5A44?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-53687E?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-2F3E46?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Java-2F3E46?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/JavaScript-2F3E46?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/SQL-2F3E46?style=for-the-badge&logo=postgresql" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Django-3A5A40?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-588157?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-52796F?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-457B9D?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-2F3E46?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Bootstrap-2F3E46?style=for-the-badge&logo=bootstrap" />
+<img src="https://img.shields.io/badge/HTML5-2F3E46?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-2F3E46?style=for-the-badge&logo=css3" />
 
 <br>
 
-<img src="https://img.shields.io/badge/SQLite-A3B18A?style=for-the-badge&logo=sqlite&logoColor=2F3E46" />
-<img src="https://img.shields.io/badge/SQL_Server-356859?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-8A5A44?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-53687E?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-2F3E46?style=for-the-badge&logo=sqlite" />
+<img src="https://img.shields.io/badge/SQL_Server-2F3E46?style=for-the-badge&logo=microsoftsqlserver" />
+<img src="https://img.shields.io/badge/Git-2F3E46?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-2F3E46?style=for-the-badge&logo=github&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/pytest-588157?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-52796F?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-457B9D?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-3A5A40?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-2F3E46?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2F3E46?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2F3E46?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/MATLAB-2F3E46?style=for-the-badge&logo=mathworks&logoColor=white" />
 
 </p>
 
@@ -105,12 +105,16 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-356859?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-8A5A44?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-53687E?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-588157?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChatGPT-2F3E46?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-2F3E46?style=for-the-badge&logo=anthropic" />
+<img src="https://img.shields.io/badge/Ollama-2F3E46?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-2F3E46?style=for-the-badge" />
 
 </p>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ## Cómo trabajo
 
@@ -120,6 +124,9 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 ▸ Iniciativa para resolver problemas de forma autónoma, y criterio para saber cuándo pedir ayuda.  
 ▸ Buena disposición para el trabajo en equipo.
 
+</td>
+<td valign="top" width="50%">
+
 ## Actualmente reforzando
 
 ▸ Inglés (preparando el B1).  
@@ -128,6 +135,10 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 ▸ SQL y bases de datos.  
 ▸ Diseño y consumo de APIs REST.  
 ▸ Pruebas automatizadas.
+
+</td>
+</tr>
+</table>
 
 ## Proyectos en equipo
 
