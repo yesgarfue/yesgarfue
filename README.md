@@ -71,48 +71,31 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 
 ## Tecnologías
 
-*Lenguajes*
-
 <p align="center">
-<img src="https://cdn.simpleicons.org/python" width="18" height="18" valign="middle"/> Python &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openjdk" width="18" height="18" valign="middle"/> Java &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="18" height="18" valign="middle"/> JavaScript &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql" width="18" height="18" valign="middle"/> SQL
+<img src="https://cdn.simpleicons.org/python" width="18" height="18" valign="middle"/> Python &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjdk" width="18" height="18" valign="middle"/> Java &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript" width="18" height="18" valign="middle"/> JavaScript &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" width="18" height="18" valign="middle"/> SQL &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/django" width="18" height="18" valign="middle"/> Django &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap" width="18" height="18" valign="middle"/> Bootstrap &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5" width="18" height="18" valign="middle"/> HTML5 &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3" width="18" height="18" valign="middle"/> CSS3 &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sqlite" width="18" height="18" valign="middle"/> SQLite &nbsp;&nbsp;
+SQL Server &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="18" height="18" valign="middle"/> Git &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github" width="18" height="18" valign="middle"/> GitHub &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytest" width="18" height="18" valign="middle"/> pytest &nbsp;&nbsp;
+Playwright &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="18" height="18" valign="middle"/> Docker &nbsp;&nbsp;
+MATLAB
 </p>
 
-*Frameworks & Web*
+**Herramientas de IA**
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/django" width="18" height="18" valign="middle"/> Django &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/bootstrap" width="18" height="18" valign="middle"/> Bootstrap &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5" width="18" height="18" valign="middle"/> HTML5 &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3" width="18" height="18" valign="middle"/> CSS3
-</p>
-
-*Bases de datos & control de versiones*
-
-<p align="center">
-<img src="https://cdn.simpleicons.org/sqlite" width="18" height="18" valign="middle"/> SQLite &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftsqlserver" width="18" height="18" valign="middle"/> SQL Server &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="18" height="18" valign="middle"/> Git &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github" width="18" height="18" valign="middle"/> GitHub
-</p>
-
-*Testing & herramientas*
-
-<p align="center">
-<img src="https://cdn.simpleicons.org/pytest" width="18" height="18" valign="middle"/> pytest &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/playwright" width="18" height="18" valign="middle"/> Playwright &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker" width="18" height="18" valign="middle"/> Docker &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mathworks" width="18" height="18" valign="middle"/> MATLAB
-</p>
-
-*Herramientas de IA*
-
-<p align="center">
-<img src="https://cdn.simpleicons.org/openai" width="18" height="18" valign="middle"/> ChatGPT &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/anthropic" width="18" height="18" valign="middle"/> Claude &nbsp;&nbsp;•&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ollama" width="18" height="18" valign="middle"/> Ollama &nbsp;&nbsp;•&nbsp;&nbsp;
+ChatGPT &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic" width="18" height="18" valign="middle"/> Claude &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama" width="18" height="18" valign="middle"/> Ollama &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/crewai" width="18" height="18" valign="middle"/> CrewAI
 </p>
 
