@@ -14,14 +14,14 @@
 
 </div>
 
-## Sobre mí
+<img src="section-sobremi.svg" width="100%" alt="Sobre mí" />
 
 ▸ Trayectoria previa en soporte técnico, desarrollo web y proyectos de investigación aplicada, en Perú y España.  
 ▸ Buscando prácticas en desarrollo de software, backend o QA.  
 ▸ Acostumbrada a trabajar en equipo, tanto en contextos académicos como profesionales.  
 ▸ Uso habitual de Git y GitHub para organizar y compartir trabajo.
 
-## Experiencia
+<img src="section-experiencia.svg" width="100%" alt="Experiencia" />
 
 ▸ **Beca de formación en prácticas** — Biblioteca de la Universidad de Sevilla · 2023  
 Apoyo técnico en entorno universitario, adaptación de contenidos digitales y asistencia en incidencias básicas. *(Sevilla, España)*
@@ -35,7 +35,7 @@ Desarrollo y soporte de páginas web, publicación de la web corporativa, config
 ▸ **Apoyo técnico** — Compuprinter Ingenieros E.I.R.L. · 2016–2017  
 Servicios de migración, instalación y mantenimiento básico de equipos informáticos en organizaciones e instituciones, incluyendo el Banco de la Nación del Perú. *(Arequipa, Perú)*
 
-## Formación
+<img src="section-formacion.svg" width="100%" alt="Formación" />
 
 ▸ **Grado en Ingeniería Informática — Ingeniería del Software**, Universidad de Sevilla *(2020 – actualidad)*.
 
@@ -67,7 +67,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
   </a>
 </p>
 
-## Tecnologías y Herramientas de IA
+<img src="section-tecnologias.svg" width="100%" alt="Tecnologías y Herramientas de IA" />
 
 **Tecnologías**
 
@@ -98,7 +98,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <img src="https://cdn.simpleicons.org/crewai" width="18" height="18" valign="middle"/> CrewAI
 </p>
 
-## Cómo trabajo y qué sigo reforzando
+<img src="section-como-trabajo.svg" width="100%" alt="Cómo trabajo y qué sigo reforzando" />
 
 **Cómo trabajo**
 
@@ -113,7 +113,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 ▸ Inglés (preparando el B1).  
 ▸ Diseño y consumo de APIs REST.
 
-## Contacto
+<img src="section-contacto.svg" width="100%" alt="Contacto" />
 
 <p align="center">
 <img src="icon-linkedin.svg" width="18" height="18" valign="middle"/> <a href="https://www.linkedin.com/in/yesicagaratefuentes/">LinkedIn</a><br>
