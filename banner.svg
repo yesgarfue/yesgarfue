@@ -39,7 +39,7 @@
         M0,180 C200,145 400,210 600,180 C800,145 1000,210 1200,180 L1200,200 L0,200 Z" />
   </path>
 
-  <text x="50%" y="72" text-anchor="middle" class="banner-text" font-size="44" font-weight="700">Yesica Garate</text>
+  <text x="50%" y="72" text-anchor="middle" class="banner-text" font-size="42" font-weight="700">Yesica Garate</text>
   <text x="50%" y="115" text-anchor="middle" class="banner-text" font-size="22" font-weight="700">Ingeniería Informática — Ingeniería del Software</text>
   <text x="50%" y="147" text-anchor="middle" class="banner-text" font-size="22" font-weight="700">Universidad de Sevilla</text>
 </svg>

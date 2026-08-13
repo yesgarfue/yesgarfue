@@ -4,5 +4,5 @@
   </style>
   <rect width="1200" height="64" fill="#4A6670" opacity="0.88"/>
   <rect width="1200" height="4" y="60" fill="#35505A" opacity="0.88"/>
-  <text x="40" y="41" class="section-title" font-size="26" font-weight="700">Formación</text>
+  <text x="40" y="41" class="section-title" font-size="24" font-weight="700">Formación</text>
 </svg>
