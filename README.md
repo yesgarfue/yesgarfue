@@ -8,6 +8,9 @@
 
 <div align="center">
 
+**Ingeniería Informática — Ingeniería del Software**  
+Universidad de Sevilla
+
 *Vengo de un camino variado —soporte técnico, desarrollo web, investigación aplicada— y ahora enfoco ese recorrido en el desarrollo de software. Busco una oportunidad de prácticas donde aportar responsabilidad, compromiso y ganas reales de aprender.*
 
 📍 Disponibilidad inmediata — Sevilla / híbrido / remoto
