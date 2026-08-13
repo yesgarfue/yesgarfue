@@ -98,30 +98,15 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <img src="https://cdn.simpleicons.org/crewai" width="18" height="18" valign="middle"/> CrewAI
 </p>
 
-## Cómo trabajo y qué sigo reforzando
-
-**Cómo trabajo**
-
-▸ Organización, responsabilidad y compromiso con tareas y plazos.  
-▸ Capacidad de aprendizaje y adaptación rápida a nuevos entornos y herramientas.  
-▸ Comunicación clara, escucha activa y actitud proactiva.  
-▸ Iniciativa para resolver problemas de forma autónoma, y criterio para saber cuándo pedir ayuda.  
-▸ Buena disposición para el trabajo en equipo.
-
-**Actualmente reforzando**
+## Actualmente reforzando
 
 ▸ Inglés (preparando el B1).  
-▸ Fundamentos de Python.  
-▸ HTML, CSS y desarrollo web.  
-▸ SQL y bases de datos.  
-▸ Diseño y consumo de APIs REST.  
-▸ Pruebas automatizadas.
+▸ Diseño y consumo de APIs REST.
 
 ## Contacto
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/gmail" width="18" height="18" valign="middle"/> <a href="mailto:yesi.garate@gmail.com">yesi.garate@gmail.com</a> &nbsp;&nbsp;
-<img src="icon-linkedin.svg" width="18" height="18" valign="middle"/> <a href="https://www.linkedin.com/in/yesicagaratefuentes/">LinkedIn</a> &nbsp;&nbsp;
+<img src="icon-linkedin.svg" width="18" height="18" valign="middle"/> <a href="https://www.linkedin.com/in/yesicagaratefuentes/">LinkedIn</a><br>
 📄 CV — próximamente
 </p>
 
