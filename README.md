@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="banner.svg"
+    src="https://capsule-render.vercel.app/api?type=waving&color=4A6670&height=150&section=header&text=Yesica%20Garate&fontColor=EFE6D8&fontSize=46&animation=fadeIn"
     alt="Cabecera de Yesica Garate"
   />
 </p>
