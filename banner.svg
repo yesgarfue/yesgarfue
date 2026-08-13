@@ -26,7 +26,7 @@
         M0,150 C200,190 400,110 600,150 C800,190 1000,110 1200,150 L1200,200 L0,200 Z" />
   </path>
 
-  <path fill="#35505A" opacity="0.5">
+  <path fill="#5c7d89" opacity="0.35">
     <animate
       attributeName="d"
       dur="6s"
