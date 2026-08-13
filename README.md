@@ -123,7 +123,7 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=3A5A40&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=4A6670&height=100&section=footer"
     alt="Pie del perfil"
   />
 </p>
