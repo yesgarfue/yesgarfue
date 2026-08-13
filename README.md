@@ -98,7 +98,17 @@ Es una línea de trabajo que me interesa mucho y en la que quiero seguir profund
 <img src="https://cdn.simpleicons.org/crewai" width="18" height="18" valign="middle"/> CrewAI
 </p>
 
-## Actualmente reforzando
+## Cómo trabajo y qué sigo reforzando
+
+**Cómo trabajo**
+
+▸ Organizo el trabajo en tareas claras y cumplo los plazos que me marco.  
+▸ Pregunto cuando algo no está claro, en vez de suponer.  
+▸ Resuelvo lo que puedo por mi cuenta, y reconozco cuándo necesito ayuda.  
+▸ Me adapto rápido a herramientas y flujos de trabajo nuevos.  
+▸ Cómoda dando y recibiendo feedback dentro de un equipo.
+
+**Actualmente reforzando**
 
 ▸ Inglés (preparando el B1).  
 ▸ Diseño y consumo de APIs REST.
