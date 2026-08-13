@@ -1,15 +1,12 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=4A6670&height=150&section=header&text=Yesica%20Garate&fontColor=EFE6D8&fontSize=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=4A6670&height=190&section=header&text=Yesica%20Garate&fontColor=EFE6D8&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Grado%20en%20Ingeniería%20Informática-Ingeniería%20del%20Software,%20Universidad%20de%20Sevilla&descAlignY=62&descSize=18"
     alt="Cabecera de Yesica Garate"
   />
 </p>
 
 <div align="center">
-
-**Ingeniería Informática — Ingeniería del Software**  
-Universidad de Sevilla
 
 *Vengo de un camino variado —soporte técnico, desarrollo web, investigación aplicada— y ahora enfoco ese recorrido en el desarrollo de software. Busco una oportunidad de prácticas donde aportar responsabilidad, compromiso y ganas reales de aprender.*
 
