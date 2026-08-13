@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=4A6670&height=190&section=header&text=Yesica%20Garate&fontColor=EFE6D8&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Grado%20en%20Ingeniería%20Informática-Ingeniería%20del%20Software,%20Universidad%20de%20Sevilla&descAlignY=62&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=4A6670&height=190&section=header&text=Yesica%20Garate&fontColor=EFE6D8&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Grado%20en%20Ingeniería%20Informática-Ingeniería%20del%20Software,%20Universidad%20de%20Sevilla&descAlignY=62&descSize=18"
     alt="Cabecera de Yesica Garate"
   />
 </p>
