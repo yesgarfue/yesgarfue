@@ -1,0 +1,11 @@
+<svg width="100%" height="56" viewBox="0 0 1200 56" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .section-title {
+      font-family: Georgia, "Times New Roman", serif;
+      fill: #EFE6D8;
+    }
+  </style>
+  <rect width="1200" height="56" fill="#4A6670"/>
+  <rect width="1200" height="4" y="52" fill="#C99A4B"/>
+  <text x="40" y="36" class="section-title" font-size="26" font-weight="700">Sobre mí</text>
+</svg>
